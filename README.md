@@ -16,7 +16,7 @@
 To run this project locally, you will need the following installed:
 
 - Python 3.9 or higher
-- Docker (for running the Browserless Selenium server)
+- Docker
 
 ## Installation
 
