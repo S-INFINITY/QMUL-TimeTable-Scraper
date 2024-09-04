@@ -1,0 +1,10 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+pydantic==1.10.8
+selenium==4.11.2
+beautifulsoup4==4.12.2
+ics==0.7
+webdriver-manager==4.0.0
+python-multipart==0.0.6
+starlette==0.26.1
+Jinja2==3.1.2
